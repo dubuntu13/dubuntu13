@@ -19,6 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
 </div>
+
 <br>You can follow and connect with me closer in here:
 <br>**[Linkedin](https://www.linkedin.com/in/daniel-mehrani)**
 
