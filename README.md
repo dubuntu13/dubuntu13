@@ -18,3 +18,7 @@ some of tool's that i using them for make my job easier:
 
 You can follow and connect with me closer in here:
 <br>**[Linkedin](https://www.linkedin.com/in/daniel-mehrani)**
+
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=dubuntu13&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=dubuntu13&layout=compact&theme=buefy&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dubuntu13)](https://git.io/streak-stats)
