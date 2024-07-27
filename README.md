@@ -1,6 +1,6 @@
 # DanielMehrani
 
-<br>I'm a Linux Administrator and very loyal to my job.
+<br>I'm a Linux Administrator.
 
 <br>I'm a OpenSource believer.
 
