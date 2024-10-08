@@ -20,7 +20,6 @@
 </div>
 
 <br>You can follow and connect with me closer in here:
-<br>**[Linkedin](https://www.linkedin.com/in/daniel-mehrani)**
 Follow me in **[Linkedin](https://www.linkedin.com/in/daniel-mehrani)** **[Medium](https://medium.com/@danielmehrani)**
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=dubuntu13&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://git.io/streak-stats)
