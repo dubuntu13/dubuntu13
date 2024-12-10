@@ -20,9 +20,7 @@
 </div>
 
 <br>You can follow and connect with me closer in here:
-Follow me in **[Linkedin](https://www.linkedin.com/in/danielmehrani)**
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daniel-mehrani-7a6b6233a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/daniel-mehrani-7a6b6233a?trk=profile-badge">Daniel Mehrani</a></div>
-               **[Medium](https://medium.com/@danielmehrani)**
+Follow me in **[Linkedin](https://www.linkedin.com/in/daniel-mehrani)** **[Medium](https://medium.com/@danielmehrani)**
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=dubuntu13&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=dubuntu13&layout=compact&theme=buefy&hide_border=true)](https://git.io/streak-stats)
