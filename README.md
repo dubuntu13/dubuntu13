@@ -1,10 +1,10 @@
 # DanielMehrani
 
-<br>I'm a Linux Administrator.
+<br>I'm a Devops Engineer.
 
 <br>I'm a OpenSource believer.
 
-<br>I really like work with computer's.
+<br>I really like work with computer's and I'm a artist engineer.
 
 <br>I'm trying hard to be usefull.
 
